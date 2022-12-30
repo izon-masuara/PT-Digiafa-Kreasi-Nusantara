@@ -37,6 +37,4 @@ const certificates = [
     }
 ]
 
-// publiser id mereferensikan publiser name
-
 module.exports = certificates
