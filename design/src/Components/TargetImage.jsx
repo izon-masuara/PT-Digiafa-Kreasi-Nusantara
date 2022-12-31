@@ -12,6 +12,6 @@ export default function TargetImage({setImage}) {
         }
     }))
     return (
-        <div className="w-full h-full bg-gray-100 text-center pt-10 border-2 border-black" ref={drop} >Drag you image here <br /> Note : svg,png,jpg</div>
+        <div className="w-full h-full bg-gray-100 text-center pt-10 border-2 border-black" ref={drop} >Drop you image here <br /> Note : svg,png,jpg</div>
     )
 }
